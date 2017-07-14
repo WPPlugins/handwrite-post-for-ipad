@@ -1,0 +1,77 @@
+#titlediv {
+    text-align: left;
+}
+
+#main-content{
+    text-align:right;
+}
+
+#lead-text-div{
+    width: 640px;
+    text-align:left;
+}
+
+#handwrite{
+    vertical-align: middle;
+    width:442px;
+    height:260px;
+    margin-top:10px;
+}
+
+#handwrite-content{
+    width:322px;
+    overflow:hidden;
+    white-space: nowrap;
+}
+
+.handwrite-div{
+    width: 320px;
+}
+
+.canvas-image{
+    border: 1px solid black;
+    position:relative;
+}
+
+.arrow{
+    margin-top:80px;
+}
+
+.float-left{
+    float:left;
+}
+
+.canvasDefault{
+    float: left;
+    margin-right: 10px;
+}
+
+.palette1{
+    
+}
+
+.pencil-black{
+    margin-top: 10px;
+    margin-right: 5px;
+    border: 2px black solid;
+}
+
+.pencil-red{
+    margin-top: 10px;
+    margin-right: 5px;
+    border: 2px red solid;
+}
+
+.eraser-black{
+    border: 2px black solid;
+}
+
+.eraser-red{
+    border: 2px red solid;
+}
+
+.canvas-save-button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
